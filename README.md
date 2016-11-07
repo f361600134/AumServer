@@ -8,6 +8,6 @@ and make communication easier!
 We arrived late! 😁
 
 第一次工程提交, 这个框架很厉害!!!
-集成了disrutor异步无锁框架,netty网络框架,google的protobuf通讯协议!
+集成了disrutor异步无锁框架,netty网络框架,使用google的protobuf作为通讯!
 我们要实现的,就是让业务实现无锁, 让网络通讯变得更简单!
 我们,来晚了!😁
