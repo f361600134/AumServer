@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/okra-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/okra-spring"/>
+	<classpathentry kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/disruptor-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.1.45.jar"/>
+	<classpathentry kind="lib" path="lib/HikariCP-2.4.5.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-jcl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-slf4j-impl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/mybatis-spring-1.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="lib/netty-all-4.1.0.CR7.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
